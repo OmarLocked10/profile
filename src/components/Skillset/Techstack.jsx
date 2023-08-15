@@ -1,7 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  DiJavascript1,
   DiGit,
   DiPython,
   DiJavascript1,
@@ -11,14 +10,7 @@ import {
   DiSqllite,
   DiMarkdown
 } from "react-icons/di";
-import { DiPython,
-  DiJavascript1,
-  DiVim,
-  DiLinux,
-  DiGit,
-  DiSqllite,
-  DiMarkdown
-} from "react-icons/si";
+import {} from "react-icons/si";
 
 const Techstack = () => {
   return (
