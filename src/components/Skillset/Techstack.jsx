@@ -1,7 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
-  DiGit,
   DiPython,
   DiJavascript1,
   DiVim,
@@ -26,6 +25,9 @@ const Techstack = () => {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiLinux/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <DiGit/>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiSqllite/>
