@@ -19,26 +19,26 @@ const Techstack = () => {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHtml5 />
+        <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJavascript1 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+        <DiVim />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+        <DiLinux />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiRedux />
+        <DiGit />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiMongodb />
+        <DiSqllite />
       </Col>
       
       <Col xs={4} md={2} className="tech-icons">
-        <DiGit />
+        <DiMarkdown />
       </Col>
     </Row>
   );
