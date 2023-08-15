@@ -3,9 +3,15 @@ import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
   DiGit,
-} from "react-icons/di";
-import {
   DiPython,
+  DiJavascript1,
+  DiVim,
+  DiLinux,
+  DiGit,
+  DiSqllite,
+  DiMarkdown
+} from "react-icons/di";
+import { DiPython,
   DiJavascript1,
   DiVim,
   DiLinux,
