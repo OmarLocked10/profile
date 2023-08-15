@@ -33,10 +33,6 @@ const Techstack = () => {
       <Col xs={4} md={2} className="tech-icons">
         <DiSqllite />
       </Col>
-      
-      <Col xs={4} md={2} className="tech-icons">
-        <DiMarkdown />
-      </Col>
     </Row>
   );
 }
