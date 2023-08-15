@@ -2,17 +2,16 @@ import React from "react";
 import { Col, Row } from "react-bootstrap";
 import {
   DiJavascript1,
-  DiReact,
-  DiNodejs,
   DiGit,
 } from "react-icons/di";
 import {
-  SiMaterialui,
-  SiGraphql,
-  SiSolidity,
-  SiRedux,
-  SiMongodb,
-  SiHtml5
+  DiPython,
+  DiJavascript1,
+  DiVim,
+  DiLinux,
+  DiGit,
+  DiSqllite,
+  DiMarkdown
 } from "react-icons/si";
 
 const Techstack = () => {
