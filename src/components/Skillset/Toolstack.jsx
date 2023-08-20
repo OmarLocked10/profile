@@ -4,7 +4,6 @@ import {
   SiVisualstudiocode,
   SiAcademia,
   SiHeroku,
-  SiVercel,
   SiUbuntu
 } from "react-icons/si";
 
